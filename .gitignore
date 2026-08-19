@@ -1,0 +1,8 @@
+# this orphan branch shares a checkout with the code branches, so ignore
+# everything except the ops files tracked here
+/*
+!/.github/
+!/.gitignore
+!/_build/
+!/patches
+!/README.md
